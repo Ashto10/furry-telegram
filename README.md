@@ -1,3 +1,3 @@
 # furry-telegram
-![alt text](Capture.png)
+![alt text](Capture.PNG)
 ![alt text](tfg.png)
