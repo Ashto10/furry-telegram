@@ -1,2 +1,4 @@
 # furry-telegram
-![alt text](https://github.com/Ashto10/furry-telegram/blob/master/Capture.PNG?raw=true)
+![alt text](Capture.PNG)
+![alt text](tfg.png)
+![alt text](wtf-gh.png)
